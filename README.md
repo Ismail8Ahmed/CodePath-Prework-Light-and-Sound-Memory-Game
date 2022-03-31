@@ -6,7 +6,7 @@ Submitted by: **Ismail Ahmed**
 
 Time spent: **7** hours spent in total
 
-Link to project: ()
+Link to project: (https://glitch.com/edit/#!/heather-habitual-fisherman?path=script.js%3A26%3A11)
 
 ## Required Functionality
 
