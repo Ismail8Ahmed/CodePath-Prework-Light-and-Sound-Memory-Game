@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[gif-link-here](https://gifyu.com/image/SpjNt)
+[gif-link-here](https://s7.gifyu.com/images/CodePath-Light-and-Sound-Memory-Game-GIF.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
