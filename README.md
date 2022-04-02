@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](https://gifyu.com/image/SpjNt)
+[gif-link-here](https://gifyu.com/image/SpjNt)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -49,7 +49,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [N/A]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[The biggest challenge was the randomization, as I tried to implement it in several different ways, which did not work, until after soem time, I discovered a way to randomize the pattern of the game.]
+[The biggest challenge was the randomization, as I tried to implement it in several different ways, which did not work, until after some time, I discovered a way to randomize the pattern of the game.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [I would like to learn more about Asynchronous JavaScript, Functional Javascript, React, Node, and MongoDB.]
